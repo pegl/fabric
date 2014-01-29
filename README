@@ -1,3 +1,8 @@
 A test repository for fabric deployment tool
 
 Just mucking around
+
+
+virtualenv env
+. env/bin/activate
+pip install -r requirements.txt
